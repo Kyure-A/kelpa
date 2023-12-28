@@ -1,2 +1,6 @@
 * KELPA (Kyure_A's Emacs Lisp Package Archive)
 
+** Usage
+#+begin_src emacs-lisp
+  (add-to-list 'package-archives '("kelpa" . "https://kelpa.kyre.moe"))
+#+end_src
