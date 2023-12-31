@@ -1,1 +1,1 @@
-(el-project :repo "Kyure-A/el-project" :fetcher github :files ("el-project.el" "skelton/" "skelton/*"))
+(el-project :repo "Kyure-A/el-project" :fetcher github :files ("*"))
