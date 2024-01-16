@@ -1,0 +1,1 @@
+(el-clone :repo "Kyure-A/el-clone" :fetcher github)
